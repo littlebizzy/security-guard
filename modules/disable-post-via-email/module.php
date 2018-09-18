@@ -29,9 +29,7 @@ class Module extends Helpers\Module {
 	 * Run the core module
 	 */
 	protected function onConstruct() {
-		if ($this->enabled()) {
-			Core\Core::instance($this);
-		}
+		Core\Core::instance($this);
 	}
 
 
