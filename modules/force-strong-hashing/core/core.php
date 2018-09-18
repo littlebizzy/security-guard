@@ -50,7 +50,7 @@ final class Core extends Helpers\Singleton {
 			$this->error = 'password_hash';
 
 		// Override check
-		} elseif (true || $this->rewritten()) {
+		} elseif ($this->rewritten()) {
 			$this->error = 'overridden';
 		}
 
