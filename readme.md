@@ -1,4 +1,4 @@
-# Security Guardd
+# Security Guard
 
 A carefully selected security suite for WordPress that combines only the most effective methods of guarding against hackers and other common attacks.
 
@@ -11,4 +11,3 @@ A carefully selected security suite for WordPress that combines only the most ef
 *Please do not submit Pull Requests. Instead, kindly create a new Issue with relevant information if you are an experienced developer, otherwise post your comments in our free Facebook group.*
 
 ***No emails, please! Thank you.***
-
