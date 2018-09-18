@@ -21,9 +21,9 @@ final class Modules extends Helpers\Singleton {
 	 */
 	private $keys = [
 
-		'disable-empty-trash' => [
+		/* 'disable-empty-trash' => [
 
-		],
+		], */
 
 		'disable-post-via-email' => [
 			'constants' => '\LittleBizzy\DisablePostViaEmail\FILE',
@@ -35,7 +35,7 @@ final class Modules extends Helpers\Singleton {
 		],
 
 		'force-strong-hashing' => [
-
+			'classes'	=> '\LBizzy_Force_Strong_Hashing',
 		],
 
 		'header-cleanup' => [
