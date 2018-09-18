@@ -21,9 +21,9 @@ final class Modules extends Helpers\Singleton {
 	 */
 	private $keys = [
 
-		/* 'disable-empty-trash' => [
-
-		], */
+		'disable-empty-trash' => [
+			'classes'	=> '\LB_Disable_Empty_Trash',
+		],
 
 		'disable-post-via-email' => [
 			'constants' => '\LittleBizzy\DisablePostViaEmail\FILE',
