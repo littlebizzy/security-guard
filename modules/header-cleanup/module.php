@@ -45,9 +45,11 @@ class Module extends Helpers\Module {
 
 
 	/**
-	 * Last minute check
-	 */
+ 	 * Start the module functionality
+ 	 */
 	public function init() {
+
+		// Last minute check
 		if ($this->enabled()) {
 			new Core\Cleaner;
 		}

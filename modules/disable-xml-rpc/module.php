@@ -40,12 +40,9 @@ class Module extends Helpers\Module {
 	public function init() {
 
 		// Last minute check
-		if (!$this->enabled()) {
-			return;
+		if ($this->enabled()) {
+			new Core\XMLRPC;
 		}
-
-		// Start
-		new Core\XMLRPC;
 	}
 
 
