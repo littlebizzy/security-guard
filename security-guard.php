@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Security Guard
+Plugin Name: Security Guard LittleBizzy
 Plugin URI: https://www.littlebizzy.com/plugins/security-guard
 Description: A carefully selected security suite for WordPress that combines only the most effective methods of guarding against hackers and other common attacks.
 Version: 1.0.0
