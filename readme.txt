@@ -1,4 +1,4 @@
-=== Security Guard LittleBizzy ===
+=== Security Guard ===
 
 Contributors: littlebizzy
 Donate link: https://www.patreon.com/littlebizzy
