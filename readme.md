@@ -2,13 +2,17 @@
 
 A carefully selected security suite for WordPress that combines only the most effective methods of guarding against hackers and other common attacks.
 
-* [Plugin Homepage (LittleBizzy.com)](https://www.littlebizzy.com/plugins/security-guard)
-* [Free Facebook Group](https://www.facebook.com/groups/littlebizzy/)
+* [Plugin Homepage](https://www.littlebizzy.com/plugins/security-guard)
+* [Download Latest Version (ZIP)](https://github.com/littlebizzy/security-guard/archive/1.0.0.zip)
+* [**Become A LittleBizzy.com Member Today!**](https://www.littlebizzy.com/members)
 
 ### Defined Constants
 
     /* Plugin Meta */
-    define('DISABLE_NAG_NOTICES', true);
+    define('AUTOMATIC_UPDATE_PLUGINS', false); // default = false
+    define('DISABLE_NAG_NOTICES', true); // default = true
+    
+    /* Security Guard Functions */
 
 ### Compatibility
 
