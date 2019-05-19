@@ -13,6 +13,7 @@ A carefully selected security suite for WordPress that combines only the most ef
     define('DISABLE_NAG_NOTICES', true); // default = true
     
     /* Security Guard Functions */
+    define('SECURITY_GUARD', true); // default = true
     
 ### Included Modules
 
