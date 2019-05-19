@@ -16,11 +16,16 @@ A carefully selected security suite for WordPress that combines only the most ef
     
 ### Included Modules
 
+* 404 To Homepage
+* Block Referrer Spam
+* Dashboard Cleanup
 * [Disable Empty Trash](https://www.littlebizzy.com/plugins/disable-empty-trash)
 * [Disable Post Via Email](https://www.littlebizzy.com/plugins/disable-post-via-email)
+* Disable REST API
 * [Disable XML-RPC](https://www.littlebizzy.com/plugins/disable-xml-rpc)
 * [Force Strong Hashing](https://www.littlebizzy.com/plugins/force-strong-hashing)
 * [Header Cleanup](https://www.littlebizzy.com/plugins/header-cleanup)
+* Remove Query Strings
 
 ### Compatibility
 
